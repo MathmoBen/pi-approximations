@@ -1,5 +1,5 @@
-# pi-approximations
-This is a place to record implementations in Python of various methods for approximating pi.
+# $\pi$-approximations
+This is a place to record implementations in Python of various methods for approximating $\pi$.
 
 The above notebooks record the following.
 
