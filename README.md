@@ -9,4 +9,4 @@ pi probability: we discuss some probabilistic approaches including the famous Bu
 
 pi sums and products: we calculate partial sums and products of some well-known amusing examples of series that converge to values related to $\pi$.
 
-pi zeros: we implement various approaches to the problem of finding the value of $x$ such that $\cos(x)=0$, i.e. $\pi/2$, including the Newton-Raphon-method and its slower, and much less famous cousin, Halley's method.
+pi zeros: we implement various approaches to the problem of finding the value of $x$ such that $\cos(x)=0$, i.e. $\pi/2$, including the Newton-Raphon-method and the slower, and much less famous cousin, Lion Hunting method.
