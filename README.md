@@ -5,7 +5,7 @@ The above notebooks record the following.
 
 pi geometry: unsurprisingly, the most obvious approach to the problem is approximating the area in (a part of) a circle and in this notebook we record some attempts at that.
 
-pi probability: we discuss some probabilistic approaches including the famous Buffon's needle problem.
+pi probability: we discuss some probabilistic Monte Carlo approaches including the famous Buffon's needle problem.
 
 pi sums and products: we calculate partial sums and products of some well-known amusing examples of series that converge to values related to $\pi$.
 
